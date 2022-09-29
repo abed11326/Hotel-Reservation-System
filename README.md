@@ -1,2 +1,3 @@
 # Hotel-Reservation-System
-A college project for Advanced Programming Course using Python and OOP
+This is a college project for the course "Advanced Programming" using Python and OOP. It is a hotel reservation system.
+The project requirements can be found in 
